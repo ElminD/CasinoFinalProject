@@ -1,0 +1,11 @@
+C:\Users\edidic1\Documents\GitHub\CasinoFinalProject\CasinoGame\CasinoGame\bin\Debug\CasinoGame.exe.config
+C:\Users\edidic1\Documents\GitHub\CasinoFinalProject\CasinoGame\CasinoGame\bin\Debug\CasinoGame.exe
+C:\Users\edidic1\Documents\GitHub\CasinoFinalProject\CasinoGame\CasinoGame\bin\Debug\CasinoGame.pdb
+C:\Users\edidic1\Documents\GitHub\CasinoFinalProject\CasinoGame\CasinoGame\obj\Debug\CasinoGame.csprojAssemblyReference.cache
+C:\Users\edidic1\Documents\GitHub\CasinoFinalProject\CasinoGame\CasinoGame\obj\Debug\CasinoGame.Form1.resources
+C:\Users\edidic1\Documents\GitHub\CasinoFinalProject\CasinoGame\CasinoGame\obj\Debug\CasinoGame.Properties.Resources.resources
+C:\Users\edidic1\Documents\GitHub\CasinoFinalProject\CasinoGame\CasinoGame\obj\Debug\CasinoGame.csproj.GenerateResource.cache
+C:\Users\edidic1\Documents\GitHub\CasinoFinalProject\CasinoGame\CasinoGame\obj\Debug\CasinoGame.csproj.CoreCompileInputs.cache
+C:\Users\edidic1\Documents\GitHub\CasinoFinalProject\CasinoGame\CasinoGame\obj\Debug\CasinoGame.exe
+C:\Users\edidic1\Documents\GitHub\CasinoFinalProject\CasinoGame\CasinoGame\obj\Debug\CasinoGame.pdb
+C:\Users\edidic1\Documents\GitHub\CasinoFinalProject\CasinoGame\CasinoGame\obj\Debug\CasinoGame.Form2.resources
